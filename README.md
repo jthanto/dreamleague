@@ -14,3 +14,9 @@ Description is under construction.
 - Pull data from api
 - Make design
 - make some desicions
+- LIVE DRAFT (jaytee suicide)
+
+#shit we need
+- Players
+- Money
+- Drafting system
